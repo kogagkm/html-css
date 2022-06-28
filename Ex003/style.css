@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+body{
+  /*shorthant*/
+  /*font-style -> font-weight -> font-size ->font-family*/
+  font: italic bolder 3em 'Work Sans', sans-serif;
+}
